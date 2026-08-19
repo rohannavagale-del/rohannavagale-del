@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Sophomore | B.Tech CSE @ MIT ADT | Emerging Software Developer | Skilled in Web Development (HTML, CSS, JavaScript) | Java| Python |  Exploring Machine Learning.Member of GDG
+<br>Sophomore | B.Tech CSE @ MIT ADT | Emerging Software Developer | Skilled in Web Development (HTML, CSS, JavaScript) | Java| Python |Machine Learning| Vice-President TecnoSmart Campus Club |Member of GDG
 
 
 ## 🌐 Socials:
